@@ -11,7 +11,7 @@ Riesenie :
 Stav : stav je reprezentovaný v 2D poli typu short.
 Voľný štvorec je „0“ a ostatné štvorce sú čísla.
 Operátory : Vpravo, Dole, Vľavo, Hore.
-Heuristická funkcia: na heuristiku som používal 1. a 2.
+Heuristická funkcia: na heuristiku som používal dva metriky:
 1. Počet políčok, ktoré nie sú na svojom mieste
 2. Súčet vzdialenosti jednotlivých políčok od ich cieľovej pozície.  
 Uzol : Uzol obsahuje informácie : -STAV
