@@ -40,9 +40,13 @@ vytvorených a zatiaľ nespracovaných.
 Vysledok :
 
 Začiatok : 0 1 2 3 4 5
+
 Cieľový stav : 3 4 5 0 1 2
+
 Čas : 7 ms
+
 Celkový počet uzlov : 327
+
 Výstup :
 1. DOWN
 2. RIGHT
