@@ -65,4 +65,5 @@ Výstup :
 19. LEFT
 20. DOWN
 21. LEFT
+
 Dĺžka cestu : 21
