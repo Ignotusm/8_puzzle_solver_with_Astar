@@ -3,8 +3,8 @@
 Našou úlohou je nájsť riešenie 8-hlavolamu. Hlavolam je zložený z 8 očíslovaných
 políčok a jedného prázdneho miesta. Políčka je možné presúvať hore, dole, vľavo
 alebo vpravo, ale len ak je tým smerom medzera. Je vždy daná nejaká
-východisková a nejaká cieľová pozícia a je potrebné nájsť postupnosť krokov, ktoré 
-vedú z jednej pozície do druhej.
+východisková a nejaká cieľová pozícia a je potrebné nájsť postupnosť krokov,ktoré vedú z východiskovej do cieľovej pozície.
+
 
 Riesenie : 
 
@@ -13,7 +13,7 @@ Voľný štvorec je „0“ a ostatné štvorce sú čísla.
 Operátory : Vpravo, Dole, Vľavo, Hore.
 Heuristická funkcia: na heuristiku som používal 1. a 2.
 1. Počet políčok, ktoré nie sú na svojom mieste
-2. Súčet vzdialenosti jednotlivých políčok od ich cieľovej pozície.
+2. Súčet vzdialenosti jednotlivých políčok od ich cieľovej pozície.  
 Uzol : Uzol obsahuje informácie : -STAV
  -Parent
  -Posledne použitý operátor
