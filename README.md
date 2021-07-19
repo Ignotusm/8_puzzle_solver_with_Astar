@@ -30,7 +30,7 @@ neúspechom – riešenie neexistuje
 ho aktuálny
 4. Ak tento uzol predstavuje cieľový stav, skončí s úspechom – vypíše riešenie
 5. Vytvorí nasledovníkov aktuálneho uzla a zaradí ich medzi spracované uzly
-6. Nasledovníkov kontroluje, či už existuje medzi vytvorenými a zatiaľ
+6. Nasledovníkov kontroluje, či už existuju medzi vytvorenými a zatiaľ
 nespracovanými uzlami, keď nie, tak ich umiestní do vytvorených 
 a zatiaľ nespracovaných, pokiaľ áno, tak kontroluje, či teraz 
 vytvorený uzol má lacnejšiu cestu, a keď áno, tak umiestní do 
@@ -70,4 +70,4 @@ Výstup :
 20. DOWN
 21. LEFT
 
-Dĺžka cestu : 21
+Dĺžka cesty : 21
